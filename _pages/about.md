@@ -23,7 +23,7 @@ The results of my research are published in leading transportation journals (e.g
 
 
 # 🔥 News
-- *2024.02*: I am currently hiring Master students of Engineering at College of Civil Aviation, NUAA. If you are self-motivated, hard-working and has appropriate backgrounds including but not limited to: transportation planning, operations research, computer science, feel free to contact me via email. Wish we can work together to solve hard but interesting aviation problems with real-world data! 
+- *2024.02*: I am currently hiring Master students of Engineering at [College of Civil Aviation, NUAA](https://cca.nuaa.edu.cn/). If you are self-motivated, hard-working and has appropriate backgrounds including but not limited to: transportation planning, operations research, computer science, feel free to contact me via email. Wish we can work together to solve hard but interesting aviation problems with real-world data! 
 
 # 📝 Highlight Publications 
 
