@@ -6,8 +6,8 @@
 # `jekyll serve`. If you change this file, please restart the server process.
 
 # Site Settings
-title                    : "Yifan Xu Homepage"
-description              : "Homepage of Yifan Xu  "
+title                    : "Yifan Xu NUAA"
+description              : "Homepage"
 repository               : "andynuaa/andynuaa.github.io"
 google_scholar_stats_use_cdn : true
 
