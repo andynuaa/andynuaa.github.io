@@ -27,7 +27,7 @@ The results of my research are published in leading transportation journals (e.g
 
 # 📝 Highlight Publications 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">TRB 2021</div><img src='images/trb2021.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">TRB 2021</div><img src='images/trb2021.jpg' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [Airline integrated robust scheduling with a variable neighborhood search based heuristic](https://www.sciencedirect.com/science/article/pii/S0191261521000850) 
@@ -38,7 +38,7 @@ The results of my research are published in leading transportation journals (e.g
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">TRC 2023</div><img src='images/trb2021.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">TRC 2023</div><img src='images/trc2023.jpg' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [A distributionally robust optimization approach for airline integrated recovery under in-flight pandemic transmission risks](https://www.sciencedirect.com/science/article/pii/S0968090X23001778) 
@@ -49,7 +49,7 @@ The results of my research are published in leading transportation journals (e.g
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">EJOR 2023</div><img src='images/ejor2023.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">EJOR 2023</div><img src='images/ejor2023.jpg' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [Competitive integrated airline schedule design and fleet assignment](https://www.sciencedirect.com/science/article/pii/S0377221723007452) 
@@ -57,6 +57,17 @@ The results of my research are published in leading transportation journals (e.g
 **European Journal of Operational Research**
 
 **Yifan Xu**, Nicole Adler, Sebastian Wandelt, Xiaoqian Sun 
+</div>
+</div>
+
+[IMMUNER: Integrated Multimodal Mobility Under Network Disruptions](https://ieeexplore.ieee.org/abstract/document/10027853/) 
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">TITS 2023</div><img src='images/its2023.gif' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+  
+**IEEE Transactions on Intelligent Transportation Systems**
+
+**Yifan Xu**, Sebastian Wandelt, Xiaoqian Sun 
 </div>
 </div>
 
