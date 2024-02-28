@@ -30,7 +30,9 @@ The results of my research are published in leading transportation journals (e.g
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">TRB 2021</div><img src='images/trb2021.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-[Airline integrated robust scheduling with a variable neighborhood search based heuristic](https://www.sciencedirect.com/science/article/pii/S0191261521000850) **Transportation Research Part B**
+[Airline integrated robust scheduling with a variable neighborhood search based heuristic](https://www.sciencedirect.com/science/article/pii/S0191261521000850) 
+
+**Transportation Research Part B**
 
 **Yifan Xu**, Sebastian Wandelt, Xiaoqian Sun 
 </div>
@@ -39,7 +41,10 @@ The results of my research are published in leading transportation journals (e.g
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">TRC 2023</div><img src='images/trb2021.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-[A distributionally robust optimization approach for airline integrated recovery under in-flight pandemic transmission risks](https://www.sciencedirect.com/science/article/pii/S0968090X23001778) **Transportation Research Part C**
+[A distributionally robust optimization approach for airline integrated recovery under in-flight pandemic transmission risks](https://www.sciencedirect.com/science/article/pii/S0968090X23001778) 
+
+**Transportation Research Part C**
+
 **Yifan Xu**, Sebastian Wandelt, Xiaoqian Sun 
 </div>
 </div>
@@ -47,7 +52,9 @@ The results of my research are published in leading transportation journals (e.g
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">EJOR 2023</div><img src='images/ejor2023.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-[Competitive integrated airline schedule design and fleet assignment](https://www.sciencedirect.com/science/article/pii/S0377221723007452) **European Journal of Operational Research**
+[Competitive integrated airline schedule design and fleet assignment](https://www.sciencedirect.com/science/article/pii/S0377221723007452) 
+
+**European Journal of Operational Research**
 
 **Yifan Xu**, Nicole Adler, Sebastian Wandelt, Xiaoqian Sun 
 </div>
