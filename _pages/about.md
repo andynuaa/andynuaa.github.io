@@ -60,11 +60,11 @@ The results of my research are published in leading transportation journals (e.g
 </div>
 </div>
 
-[IMMUNER: Integrated Multimodal Mobility Under Network Disruptions](https://ieeexplore.ieee.org/abstract/document/10027853/) 
-
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">TITS 2023</div><img src='images/its2023.gif' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
-  
+
+[IMMUNER: Integrated Multimodal Mobility Under Network Disruptions](https://ieeexplore.ieee.org/abstract/document/10027853/) 
+
 **IEEE Transactions on Intelligent Transportation Systems**
 
 **Yifan Xu**, Sebastian Wandelt, Xiaoqian Sun 
