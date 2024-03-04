@@ -17,13 +17,13 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-I am an assistant professor at Nanjing University of Aeronautics and Astronautics (NUAA). Before joining NUAA, I received my Ph.D. degree from Beihang University under the supervision of Prof. Sebastian Wandelt and Xiaoqian Sun. My work is broadly on the design and of scalable and near-exact solution algorithms for aviation optimization related problems, with a focus on column generation and neighborhood search methods. The application domains are various, including airline schedule planning, airline disruption management, airport slot allocation and hub location problems. 
+I am an assistant professor at Nanjing University of Aeronautics and Astronautics (NUAA). Before joining NUAA, I received my Ph.D. degree from Beihang University under the supervision of Prof. [Sebastian Wandelt and Xiaoqian Sun](http://m3nets.de/). My work is broadly on the design and of scalable and near-exact solution algorithms for aviation optimization related problems, with a focus on column generation and neighborhood search methods. The application domains are various, including airline schedule planning, airline disruption management, airport slot allocation and hub location problems. 
 
 The results of my research are published in leading transportation journals (e.g. Transportation Research Part B/C/E, EJOR, and IEEE T-ITS), as well as top conferences (e.g., ATM Seminar) with total <a href='https://scholar.google.com/citations?user=_-AaVOUAAAAJ'>google scholar citations <strong><span id='total_cit'>260000+</span></strong></a> (You can also use google scholar badge <a href='https://scholar.google.com/citations?user=_-AaVOUAAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>).
 
 
 # 🔥 News
-- *2024.02*: I am currently hiring Master students of Engineering at [College of Civil Aviation, NUAA](https://cca.nuaa.edu.cn/). If you are self-motivated, hard-working and has appropriate backgrounds including but not limited to: transportation planning, operations research, computer science, feel free to contact me via email. Wish we can work together to solve hard but interesting aviation problems with real-world data! 
+- *2024.02*: I am currently hiring Master students of Engineering at [College of Civil Aviation, NUAA](http://cca.nuaa.edu.cn/2023/0831/c15641a318080/page.htm). If you are self-motivated, hard-working and have appropriate backgrounds including but not limited to: transportation planning, operations research, computer science, feel free to contact me via email. Wish we can work together to solve hard but interesting aviation problems with real-world data! 
 
 # 📝 Highlight Publications 
 
