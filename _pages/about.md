@@ -17,7 +17,7 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-I am an assistant professor at Nanjing University of Aeronautics and Astronautics (NUAA). Before joining NUAA, I received my Ph.D. degree from Beihang University under the supervision of Prof. [Sebastian Wandelt and Xiaoqian Sun](http://m3nets.de/). My work is broadly on the design and of scalable and near-exact solution algorithms for aviation optimization related problems, with a focus on column generation and neighborhood search methods. The application domains are various, including airline schedule planning, airline disruption management, airport slot allocation and hub location problems. 
+I am an assistant professor at Nanjing University of Aeronautics and Astronautics (NUAA). Before joining NUAA, I received my Ph.D. degree from Beihang University under the supervision of Prof. [Sebastian Wandelt and Xiaoqian Sun](http://m3nets.de/). My work is broadly on the design and of scalable and near-exact solution algorithms for aviation optimization related problems, with a focus on column generation and neighborhood search methods. The application domains are various, including airline schedule planning, airline disruption management, airport slot allocation, airspace design and hub location problems. 
 
 The results of my research are published in leading transportation journals (e.g. Transportation Research Part B/C/E, EJOR, and IEEE T-ITS), as well as top conferences (e.g., ATM Seminar) with total <a href='https://scholar.google.com/citations?user=_-AaVOUAAAAJ'>google scholar citations <strong><span id='total_cit'>260000+</span></strong></a> (You can also use google scholar badge <a href='https://scholar.google.com/citations?user=_-AaVOUAAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>).
 
@@ -72,7 +72,8 @@ The results of my research are published in leading transportation journals (e.g
 </div>
 
 # 🎖 Honors and Awards
-- *2023.12* Outstanding Doctoral Dissertation of Beihang University. 
+- *2024.06* Outstanding Post Doc of Jiangsu Province
+- *2023.12* Outstanding Doctoral Dissertation of Beihang University 
 - *2021.09* Sabre Rigor Award. 
 
 # 📖 Educations
