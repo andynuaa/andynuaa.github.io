@@ -23,12 +23,24 @@ The results of my research are published in leading transportation journals (e.g
 
 
 # 🔥 News
-- *2025.08*: I am now sponsored by National Nature Science Foundation of China for Integrated Airline Scheduling Under Uncertain Environment.
+- *2025.09*: I am currently hiring Master students of Engineering at [College of Civil Aviation, NUAA](https://cca.nuaa.edu.cn/2025/0909/c15586a382801/page.htm). If you are self-motivated, hard-working and have appropriate backgrounds including but not limited to: transportation planning, operations research, computer science, feel free to contact me via email :)
+- *2025.08*: I am now sponsored by National Nature Science Foundation of China for Integrated Airline Scheduling Under Spatial-temporal Uncertainty (e.g. Demand and Delay).
 - *2025.07*: We have achieved the 1st place in the CTS-2025 competition for the crew scheduling, Please check this out [CTS-2025](http://www.uoptimax.com.cn/competition/CTS2025)!
-- *2025.06*: I am currently hiring Master students of Engineering at [College of Civil Aviation, NUAA](http://cca.nuaa.edu.cn/2023/0831/c15641a318080/page.htm). If you are self-motivated, hard-working and have appropriate backgrounds including but not limited to: transportation planning, operations research, computer science, feel free to contact me via email. Wish we can work together to solve hard but interesting aviation problems with real-world data!
 - *2025.05*: I have just publsihed a paper titled **Machine Learning Assisted Dynamic Copy Generation Approach for Integrated Aircraft and Passenger Recovery Problem** in the **Transportation Research Part C: Emerging Technologies**. 
 
 # 📝 Highlight Publications 
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">TRC 2025</div><img src='images/trc2025.jpg' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[Machine Learning Assisted Dynamic Copy Generation Approach for Integrated Aircraft and Passenger Recovery Problem](https://www.sciencedirect.com/science/article/pii/S0968090X25002128) 
+
+**Transportation Research Part C**
+
+**Yifan Xu**, Zhiyuan Shen, Zhaoxuan Liu, Xiaoqian Sun 
+</div>
+</div>
+
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">TRB 2021</div><img src='images/trb2021.jpg' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
