@@ -30,7 +30,7 @@ The results of my research are published in leading transportation journals (e.g
 
 # 📝 Highlight Publications 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">TRC 2025</div><img src='images/trc2025.jpg' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">TRC 2025</div><img src='images/trc2025.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [Machine Learning Assisted Dynamic Copy Generation Approach for Integrated Aircraft and Passenger Recovery Problem](https://www.sciencedirect.com/science/article/pii/S0968090X25002128) 
