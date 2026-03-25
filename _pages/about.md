@@ -23,7 +23,8 @@ The results of my research are published in leading transportation journals (e.g
 
 
 # 🔥 News
-- *2025.09*: I am currently hiring Master students of Engineering at [College of Civil Aviation, NUAA](https://cca.nuaa.edu.cn/2025/0909/c15586a382801/page.htm). If you are self-motivated, hard-working and have appropriate backgrounds including but not limited to: transportation planning, operations research, computer science, feel free to contact me via email :)
+- *2026.03*: I am currently hiring Master students of Engineering at [College of Civil Aviation, NUAA](https://cca.nuaa.edu.cn/2025/0909/c15586a382801/page.htm). If you are self-motivated, hard-working and have appropriate backgrounds including but not limited to: transportation planning, operations research, computer science, feel free to contact me via email :)
+- *2025.10*: I won the **Top Prize (Grand Prize, 1st Place)** at the 2025 China Youth Science and Technology Innovation "Challenge & Champion" Competition. My challenge topic was **Data-Driven Flight Situation Prediction and Integrated Recovery Optimization**
 - *2025.08*: I am now sponsored by National Nature Science Foundation of China for Integrated Airline Scheduling Under Spatial-temporal Uncertainty (e.g. Demand and Delay).
 - *2025.07*: We have achieved the 1st place in the CTS-2025 competition for the crew scheduling, Please check this out [CTS-2025](http://www.uoptimax.com.cn/competition/CTS2025)!
 - *2025.05*: I have just publsihed a paper titled **Machine Learning Assisted Dynamic Copy Generation Approach for Integrated Aircraft and Passenger Recovery Problem** in the **Transportation Research Part C: Emerging Technologies**. 
