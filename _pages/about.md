@@ -88,6 +88,8 @@ The results of my research are published in leading transportation journals (e.g
 </div>
 
 # 🎖 Honors and Awards
+- *2025.10* Top Prize (Grand Prize, 1st Place) at the 2025 China Youth Science and Technology Innovation "Challenge & Champion" Competition
+- *2025.07* 1st place in the CTS-2025 competition for the crew scheduling
 - *2024.06* Outstanding Post Doc of Jiangsu Province
 - *2023.12* Outstanding Doctoral Dissertation of Beihang University 
 - *2021.09* Sabre Rigor Award. 
